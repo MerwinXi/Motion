@@ -1,2 +1,0 @@
-# Trajectory-Prediction-
-Trajectory Prediction
